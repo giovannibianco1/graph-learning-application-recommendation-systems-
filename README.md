@@ -1,4 +1,4 @@
-# Graoh learning in recomendation systems
+# Graph learning in recommendation systems
 
 Excited to share another project I completed during my exchange at the University of Technology Sydney! This time, I focused on leveraging machine learning techniques for graph data analysis and applied them to recommendation systems across various scenarios.
 
